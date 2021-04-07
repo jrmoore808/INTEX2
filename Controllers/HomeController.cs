@@ -23,6 +23,10 @@ namespace INTEX2.Controllers
             return View();
         }
 
+        public IActionResult BurialList()
+        {
+            return View();
+        }
         public IActionResult Privacy()
         {
             return View();

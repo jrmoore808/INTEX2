@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jrmoo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jrmoo\\.nuget\\packages"
+    ]
+  }
+}
