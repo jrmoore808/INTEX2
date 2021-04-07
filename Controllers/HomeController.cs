@@ -27,6 +27,22 @@ namespace INTEX2.Controllers
         {
             return View();
         }
+
+        public IActionResult BurialView()
+        {
+            return View();
+        }
+
+        public IActionResult EditInfo()
+        {
+            return View();
+        }
+
+        public IActionResult EditNotes()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
